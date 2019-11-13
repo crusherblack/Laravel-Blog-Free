@@ -23,7 +23,7 @@
 						<h3 class="footer-title">Categories</h3>
 						<div class="category-widget">
 							<ul>
-								@foreach($category as $hasil)
+								@foreach($category_widget as $hasil)
 								<li><a href="#">{{ $hasil->name }} <span>{{ $hasil->posts->count() }}</span></a></li>
 								@endforeach
 							</ul>

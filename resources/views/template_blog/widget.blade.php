@@ -44,8 +44,8 @@
 						</div>
 						<div class="category-widget">
 							<ul>
-								@foreach($category as $hasil)
-								<li><a href="#">{{ $hasil->name }} <span>{{ $hasil->posts->count() }}</span></a></li>
+								@foreach($category_widget as $hasil)
+								<li><a href="{{ route('blog.category', $hasil->slug) }}">{{ $hasil->name }} <span>{{ $hasil->posts->count() }}</span></a></li>
 								@endforeach
 							</ul>
 						</div>
