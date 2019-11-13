@@ -14,6 +14,11 @@
 Auth::routes();
 
 Route::get('/', 'BlogController@index');
+/*Route::get('/isi_post', function(){
+	return view('blog.isi_post');
+});*/
+Route::get('/isi-post/{slug}', 'BlogController@isi_blog')->name('blog.isi');
+
 
 
 
