@@ -76,6 +76,7 @@
 				<div class="container">
 					<!-- nav -->
 					<ul class="nav-menu">
+						<li><a href="{{ url('') }}">Beranda</a></li>
 						<li class="has-dropdown">
 							<a href="index.html">Home</a>
 							<div class="dropdown">

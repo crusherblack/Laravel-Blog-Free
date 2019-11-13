@@ -34,7 +34,7 @@
 
 
 
-		{{ $isi_post->content }}
+		{!! $isi_post->content !!}
 
 		</div>
 	@endforeach
