@@ -25,6 +25,7 @@ class BlogController extends Controller
     public function list_blog(){
         $category_widget = Category::all();
 
+
     	$data = Posts::latest()->paginate(6);
     	return view('blog.list_post', compact('data','category_widget'));
     }
@@ -32,7 +33,14 @@ class BlogController extends Controller
     public function list_category(category $category){
         $category_widget = Category::all();
 
-        $data = $category->posts()->paginate();
+        $data = $category->posts()->paginate(6);
+        return view('blog.list_post', compact('data','category_widget'));
+    }
+
+    public function cari(request $request){
+        $category_widget = Category::all();
+
+        $data = Posts::where('judul', $request->cari)->orWhere('judul','like','%'.$request->cari.'%')->paginate(6);
         return view('blog.list_post', compact('data','category_widget'));
     }
 }
