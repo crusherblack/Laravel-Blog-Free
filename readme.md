@@ -35,3 +35,4 @@ Bagi yang ingin kembangkan menjadi lebih baik maka saya akan kasih beberapa clue
 18. Semoga berhasil
 
 Btw saya mungkin gak bisa cover semua hal diatas pada chanel saya.. tapi gak ada salahnya kan belajar mandiri?
+Good luck.. Kamu bisa.. iya kamu.. !!
