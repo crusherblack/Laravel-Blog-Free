@@ -30,7 +30,7 @@ Bagi yang ingin kembangkan menjadi lebih baik maka saya akan kasih beberapa clue
 13. Belajar menambahkan iklan pada blog
 14. Belajar mengembangkan landing page atau halaman home agar lebih menarik. Tampilkanlah featured Post. Postingan per kategori. Postingan terpanas dll pada sectionnya masing2 (Cluenya tinggal select where id_category == 'id_kategori' lalu lempar ke blade home trus tampikan)
 15. Remove semua modules js dan css pada folder public yang tidak terpakai (Tapi terload karena pas tutorial saya mau cepet)
-16. Jika udah Percaya Diri silahkan upload projectnya ke hosting masing-masing (Jangan lupa gunakan let's encript untuk https dan menghilangkan semua iklan atau hal yang gak perlu yg diinjek pada website kita)
+16. Jika udah Percaya Diri silahkan upload projectnya ke hosting masing-masing (Jangan lupa gunakan let's encript https untuk menghilangkan semua iklan atau hal yang gak perlu yg diinjek pada website kita)
 17. Test Score website kalian menggunakan tool ini https://gtmetrix.com/
 18. Semoga berhasil
 
