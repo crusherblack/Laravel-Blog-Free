@@ -18,7 +18,7 @@ Bagi yang ingin kembangkan menjadi lebih baik maka saya akan kasih beberapa clue
 1. Integrasikan semua page menggunakan meta
 2. Integrasikan text editor menggunakan Laravel File Manager (Silahkan cek video terbaru saya untuk tutorialnya)
 3. Belajar menggunakan ajax dan datatables (Cek video terbaru saya soal ajax datatables)
-4. Tambahkan captcha jika ingin hosting untuk menghindari bot pada halaman login
+4. Tambahkan captcha untuk menghindari bot jahat pada halaman login (Jika sudah hosting)
 5. Gunakan package laravel sluggable dan integarsikan menggunakan ajax agar slug tergenerate otomatis dan menjadi unik meski judul postingan sama
 6. Tambahkan opsi publish dan unpublish
 7. Belajar menggunakan package laravel intevention image untuk membagi ukuran gambar sesuai dengan dimensi yang dibutuhkan ketika ditampikan pada halaman depan / halam details blog / sidebar (Gunakan berbagai macam ukuran untuk meningkatkan perfoma)
