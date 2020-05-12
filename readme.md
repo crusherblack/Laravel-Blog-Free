@@ -1,4 +1,4 @@
-Clone Project ini | pada terminal masuk kedalam directory project
+Clone Project ini setelah selesai pada terminal masuk kedalam directory project
 
 Ketikkan:
 1. Composer Install
