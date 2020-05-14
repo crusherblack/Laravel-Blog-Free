@@ -1,3 +1,5 @@
+Bagi yang ingin tutorial instalasi project ini silahkan cek https://youtu.be/XpGbmo3ZctE
+
 Mohon di tonton video part 1 dan 2 jika assetnya gak ketemu (jika menggunakan php artisan serve) dan tolong dibaca sampe dibawah alasannya kenapa Terima Kasih
 Ini adalah link source code dari tutorial https://www.youtube.com/playlist?list=PLx4zY98IACXhYdrurFvLT1fhTvaEysoSt
 
